@@ -1,0 +1,28 @@
+PODS:
+  - audio_streamer (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+  - permission_handler_apple (9.3.0):
+    - Flutter
+
+DEPENDENCIES:
+  - audio_streamer (from `.symlinks/plugins/audio_streamer/ios`)
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+
+EXTERNAL SOURCES:
+  audio_streamer:
+    :path: ".symlinks/plugins/audio_streamer/ios"
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+
+SPEC CHECKSUMS:
+  audio_streamer: 2e472b9f81cec5e381c4cf7667afa3055dcb45a4
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  permission_handler_apple: 4ed2196e43d0651e8ff7ca3483a069d469701f2d
+
+PODFILE CHECKSUM: 23a8a4f1f2aa66b12ea1b61141f7438db37e5e3f
+
+COCOAPODS: 1.16.2
